@@ -1,0 +1,63 @@
+.cntry {
+    color: rgb(238, 230, 230);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.wrpbox {
+    width: 32%;
+    height: 5.5rem;
+    background: linear-gradient(270deg,#243b55,#141e30);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+    margin: 5px;
+    
+}
+
+.wr1 {
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.result1 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background: -webkit-linear-gradient(#1d976c,#93f9b9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.result2 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background: -webkit-linear-gradient(#e2d62b,#c9a609);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.result3 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background: -webkit-linear-gradient(#e26f42,#c9b609);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.result4 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background: -webkit-linear-gradient(#da9073,#e46f3a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+

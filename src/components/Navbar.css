@@ -1,0 +1,49 @@
+.nav {
+    
+    background-color:#1a1a2e;
+    padding: 1.2vmax;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: center;
+    border-bottom: 4px groove rgb(51, 44, 114);
+    
+}
+
+.navlinks {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+.navlinks:hover {
+   color: rgb(31, 185, 165); 
+   transition: 0.5s;
+}
+
+.xx {
+  margin-left: 20px;
+ 
+}
+
+.txs {
+  margin-left: 40px;
+  font-weight: 500;
+  color: rgb(49, 197, 190);
+}
+
+.hilite {
+    color: rgb(253, 0, 105);
+}
+.txe {    
+     width:9rem;
+     display: flex;
+     justify-content: center;
+     margin-left: 200px;
+     height: 1.8rem;
+     background: linear-gradient(90deg,#609de2,#779cdb);
+     border-radius: 3px;
+     font-weight: 400;
+     
+}

@@ -1,0 +1,13 @@
+.head1 {
+    color: aliceblue;
+    font-weight: 100;
+    font-size: .9rem;
+}
+
+.red {
+    color: rgb(182, 6, 6);
+}
+
+.green {
+    color: aqua;
+}
